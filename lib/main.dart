@@ -72,7 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   Text("I am Jack"),
                   Text("I am Jack",
                     style: TextStyle(
-                      inherit: false, //2.不继承默认样式
+                      inherit: false,
                       color: Colors.grey
                     ),
                   ),
